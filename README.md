@@ -47,7 +47,7 @@
         padding: 30px 22px;
         color: lawngreen;
       }
-      .navbar img{
+     .navbar img{
     float: left;
     width: 80px;
     height: 80px;
